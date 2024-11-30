@@ -138,6 +138,9 @@ body {
   cursor: pointer;
   z-index: 999;
 }
+.pipopu {
+  cursor: pointer;
+}
 
 .list {
   list-style: none;
